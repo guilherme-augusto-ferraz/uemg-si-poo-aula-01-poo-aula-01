@@ -12,3 +12,4 @@ class Cachorro:
 
     def dormir(self):
         self.sono = False
+        return self.sono
